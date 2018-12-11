@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>youtubesuccess</name>
+   <tag></tag>
+   <elementGuidId>cf812b8a-51ae-441e-a379-cfbae19a25ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;ckeditor5-tabs-content&quot;]/div[1]/div[2]/div[1]/div/div[2]/div/div[3]/div/form/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;ckeditor5-tabs-content&quot;]/div[1]/div[2]/div[1]/div/div[2]/div/div[3]/div/form/button[1]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Regression Test" time="62" tests="1" failures="0" errors="0">
+   <testsuite name="Regression Test" tests="1" failures="0" errors="0" time="62" timestamp="2018-11-30 18:00:27" hostname="akash - DESKTOP-R9J1D8T" id="Test Suites/Regression Test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\akash\\Katalon Studio\\Diffoperations\\Reports\\Regression Test\\20181130_180024"/>
+         <property name="logFiles" value="C:\\Users\\akash\\Katalon Studio\\Diffoperations\\Reports\\Regression Test\\20181130_180024\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="akash - DESKTOP-R9J1D8T"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.9.1.2"/>
+         <property name="browser" value="Chrome 70.0.3538.110"/>
+         <property name="hostAddress" value="192.168.11.73"/>
+         <property name="sessionId" value="82f8b1be8f68c8ecd3c2393d4071163b"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/CKEditor" classname="Test Cases/CKEditor" status="PASSED">
+         <system-out><![CDATA[2018-11-30 18:00:27 - [TEST_CASE][PASSED] - Test Cases/CKEditor: Test Cases/CKEditor
+
+2018-11-30 18:00:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2018-11-30 18:00:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2018-11-30 18:00:28 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2018-11-30 18:00:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-11-30 18:00:31 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2018-11-30 18:00:32 - [MESSAGE][PASSED] - Current window maximized
+
+2018-11-30 18:00:32 - [TEST_STEP][PASSED] - navigateToUrl("https://ckeditor.com/ckeditor-5/"): Navigate to 'https://ckeditor.com/ckeditor-5/' successfully
+
+2018-11-30 18:00:39 - [MESSAGE][PASSED] - Navigate to 'https://ckeditor.com/ckeditor-5/' successfully
+
+2018-11-30 18:00:39 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2018-11-30 18:00:45 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-11-30 18:00:45 - [TEST_STEP][PASSED] - doubleClick(findTestObject("Object Repository/NEWCKEDITOR/Page_CKEditor 5 - A set of ready to/h2_The three greatest things y")): Object: 'Object Repository/NEWCKEDITOR/Page_CKEditor 5 - A set of ready to/h2_The three greatest things y' is double clicked on
+
+2018-11-30 18:00:45 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/Page_CKEditor 5 - A set of ready to/h2_The three greatest things y' is double clicked on
+
+2018-11-30 18:00:45 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-11-30 18:00:48 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-30 18:00:48 - [TEST_STEP][PASSED] - scrollToPosition(0, 200): Browser is scrolled to position x = 0, y = 200
+
+2018-11-30 18:00:48 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 200
+
+2018-11-30 18:00:48 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-11-30 18:00:51 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-30 18:00:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/Bold")): Object: 'Object Repository/NEWCKEDITOR/Bold' is clicked on
+
+2018-11-30 18:00:51 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/Bold' is clicked on
+
+2018-11-30 18:00:51 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:00:53 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:00:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/Italic")): Object: 'Object Repository/NEWCKEDITOR/Italic' is clicked on
+
+2018-11-30 18:00:53 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/Italic' is clicked on
+
+2018-11-30 18:00:53 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:00:55 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:00:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/Bullets")): Object: 'Object Repository/NEWCKEDITOR/Bullets' is clicked on
+
+2018-11-30 18:00:55 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/Bullets' is clicked on
+
+2018-11-30 18:00:55 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:00:57 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:00:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/Numbering")): Object: 'Object Repository/NEWCKEDITOR/Numbering' is clicked on
+
+2018-11-30 18:00:57 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/Numbering' is clicked on
+
+2018-11-30 18:00:57 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:00:59 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:00:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/Link")): Object: 'Object Repository/NEWCKEDITOR/Link' is clicked on
+
+2018-11-30 18:00:59 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/Link' is clicked on
+
+2018-11-30 18:00:59 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+2018-11-30 18:01:03 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+2018-11-30 18:01:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/link/linkeneter"), "www.google.com"): Text 'www.google.com' is set on object 'Object Repository/link/linkeneter'
+
+2018-11-30 18:01:04 - [MESSAGE][PASSED] - Text 'www.google.com' is set on object 'Object Repository/link/linkeneter'
+
+2018-11-30 18:01:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:01:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:01:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/LinkSuccess")): Object: 'Object Repository/NEWCKEDITOR/LinkSuccess' is clicked on
+
+2018-11-30 18:01:06 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/LinkSuccess' is clicked on
+
+2018-11-30 18:01:06 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:01:08 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:01:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/Button")): Object: 'Object Repository/NEWCKEDITOR/Button' is clicked on
+
+2018-11-30 18:01:08 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/Button' is clicked on
+
+2018-11-30 18:01:08 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:01:10 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:01:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/ButtonSelect")): Object: 'Object Repository/ButtonSelect' is clicked on
+
+2018-11-30 18:01:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ButtonSelect' is clicked on
+
+2018-11-30 18:01:10 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-11-30 18:01:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-30 18:01:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/BlockQuote")): Object: 'Object Repository/NEWCKEDITOR/BlockQuote' is clicked on
+
+2018-11-30 18:01:13 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/BlockQuote' is clicked on
+
+2018-11-30 18:01:13 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:01:15 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:01:15 - [TEST_STEP][PASSED] - uploadFile(findTestObject("Object Repository/NEWCKEDITOR/ImageUpload"), "C:\Users\akash\Katalon Studio\Diffoperations\1.jpg"): File 'C:\Users\akash\Katalon Studio\Diffoperations\1.jpg' sent to object: 'Object Repository/NEWCKEDITOR/ImageUpload'
+
+2018-11-30 18:01:15 - [MESSAGE][PASSED] - File 'C:\Users\akash\Katalon Studio\Diffoperations\1.jpg' sent to object: 'Object Repository/NEWCKEDITOR/ImageUpload'
+
+2018-11-30 18:01:15 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2018-11-30 18:01:18 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-11-30 18:01:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/youtube")): Object: 'Object Repository/NEWCKEDITOR/youtube' is clicked on
+
+2018-11-30 18:01:18 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/youtube' is clicked on
+
+2018-11-30 18:01:18 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:01:20 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:01:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/NEWCKEDITOR/youtubeinput"), "https://youtu.be/ZFd2PE1l6vU"): Text 'https://youtu.be/ZFd2PE1l6vU' is set on object 'Object Repository/NEWCKEDITOR/youtubeinput'
+
+2018-11-30 18:01:20 - [MESSAGE][PASSED] - Text 'https://youtu.be/ZFd2PE1l6vU' is set on object 'Object Repository/NEWCKEDITOR/youtubeinput'
+
+2018-11-30 18:01:20 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:01:22 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:01:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/youtubesuccess")): Object: 'Object Repository/NEWCKEDITOR/youtubesuccess' is clicked on
+
+2018-11-30 18:01:23 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/youtubesuccess' is clicked on
+
+2018-11-30 18:01:23 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:01:25 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:01:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/Table")): Object: 'Object Repository/NEWCKEDITOR/Table' is clicked on
+
+2018-11-30 18:01:25 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/Table' is clicked on
+
+2018-11-30 18:01:25 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:01:27 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-11-30 18:01:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/NEWCKEDITOR/tableselect2")): Object: 'Object Repository/NEWCKEDITOR/tableselect2' is clicked on
+
+2018-11-30 18:01:27 - [MESSAGE][PASSED] - Object: 'Object Repository/NEWCKEDITOR/tableselect2' is clicked on
+
+2018-11-30 18:01:27 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2018-11-30 18:01:29 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-11-30 18:00:27 - [TEST_SUITE][PASSED] - Regression Test: Test Cases/CKEditor]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

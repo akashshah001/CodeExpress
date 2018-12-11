@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text</name>
+   <tag></tag>
+   <elementGuidId>e2bdbd2e-6609-4b2c-aacb-18d58ad9bfee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;ckeditor5-tabs-content&quot;]/div[1]/div[2]/div[2]/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;ckeditor5-tabs-content&quot;]/div[1]/div[2]/div[2]/div/h2</value>
+   </webElementProperties>
+</WebElementEntity>

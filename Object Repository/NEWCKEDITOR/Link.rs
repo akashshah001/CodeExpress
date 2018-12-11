@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Link</name>
+   <tag></tag>
+   <elementGuidId>66616c24-e8ea-4759-bb32-4e6bcf8732c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;ckeditor5-tabs-content&quot;]/div[1]/div[2]/div[1]/div/div[2]/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;ckeditor5-tabs-content&quot;]/div[1]/div[2]/div[1]/div/div[2]/div/button[3]</value>
+   </webElementProperties>
+</WebElementEntity>

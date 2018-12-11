@@ -1,0 +1,44 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Regression Test,Chrome 70.0.3538.110,,2018-11-30 18:00:27,2018-11-30 18:01:30,1m - 2.866s,PASSED
+,,,,,,
+Test Cases/CKEditor,Chrome 70.0.3538.110,,2018-11-30 18:00:27,2018-11-30 18:01:29,1m - 1.822s,PASSED
+"openBrowser("""")",Chrome 70.0.3538.110,,2018-11-30 18:00:28,2018-11-30 18:00:31,3.320s,PASSED
+maximizeWindow(),Chrome 70.0.3538.110,,2018-11-30 18:00:31,2018-11-30 18:00:32,1.140s,PASSED
+"navigateToUrl(""https://ckeditor.com/ckeditor-5/"")",Chrome 70.0.3538.110,,2018-11-30 18:00:32,2018-11-30 18:00:39,7.151s,PASSED
+delay(5),Chrome 70.0.3538.110,,2018-11-30 18:00:39,2018-11-30 18:00:45,5.025s,PASSED
+"doubleClick(findTestObject(""Object Repository/NEWCKEDITOR/Page_CKEditor 5 - A set of ready to/h2_The three greatest things y""))",Chrome 70.0.3538.110,,2018-11-30 18:00:45,2018-11-30 18:00:45,0.212s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-11-30 18:00:45,2018-11-30 18:00:48,3.001s,PASSED
+"scrollToPosition(0, 200)",Chrome 70.0.3538.110,,2018-11-30 18:00:48,2018-11-30 18:00:48,0.038s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-11-30 18:00:48,2018-11-30 18:00:51,3.004s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/Bold""))",Chrome 70.0.3538.110,,2018-11-30 18:00:51,2018-11-30 18:00:51,0.131s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:00:51,2018-11-30 18:00:53,2.001s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/Italic""))",Chrome 70.0.3538.110,,2018-11-30 18:00:53,2018-11-30 18:00:53,0.094s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:00:53,2018-11-30 18:00:55,2.002s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/Bullets""))",Chrome 70.0.3538.110,,2018-11-30 18:00:55,2018-11-30 18:00:55,0.125s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:00:55,2018-11-30 18:00:57,2.002s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/Numbering""))",Chrome 70.0.3538.110,,2018-11-30 18:00:57,2018-11-30 18:00:57,0.104s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:00:57,2018-11-30 18:00:59,2.002s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/Link""))",Chrome 70.0.3538.110,,2018-11-30 18:00:59,2018-11-30 18:00:59,0.127s,PASSED
+delay(4),Chrome 70.0.3538.110,,2018-11-30 18:00:59,2018-11-30 18:01:03,4.002s,PASSED
+"setText(findTestObject(""Object Repository/link/linkeneter""), ""www.google.com"")",Chrome 70.0.3538.110,,2018-11-30 18:01:03,2018-11-30 18:01:04,0.153s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:01:04,2018-11-30 18:01:06,2.001s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/LinkSuccess""))",Chrome 70.0.3538.110,,2018-11-30 18:01:06,2018-11-30 18:01:06,0.126s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:01:06,2018-11-30 18:01:08,2.003s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/Button""))",Chrome 70.0.3538.110,,2018-11-30 18:01:08,2018-11-30 18:01:08,0.118s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:01:08,2018-11-30 18:01:10,2.002s,PASSED
+"click(findTestObject(""Object Repository/ButtonSelect""))",Chrome 70.0.3538.110,,2018-11-30 18:01:10,2018-11-30 18:01:10,0.101s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-11-30 18:01:10,2018-11-30 18:01:13,3.003s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/BlockQuote""))",Chrome 70.0.3538.110,,2018-11-30 18:01:13,2018-11-30 18:01:13,0.142s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:01:13,2018-11-30 18:01:15,2.001s,PASSED
+"uploadFile(findTestObject(""Object Repository/NEWCKEDITOR/ImageUpload""), ""C:\Users\akash\Katalon Studio\Diffoperations\1.jpg"")",Chrome 70.0.3538.110,,2018-11-30 18:01:15,2018-11-30 18:01:15,0.117s,PASSED
+delay(3),Chrome 70.0.3538.110,,2018-11-30 18:01:15,2018-11-30 18:01:18,3.002s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/youtube""))",Chrome 70.0.3538.110,,2018-11-30 18:01:18,2018-11-30 18:01:18,0.112s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:01:18,2018-11-30 18:01:20,2.003s,PASSED
+"setText(findTestObject(""Object Repository/NEWCKEDITOR/youtubeinput""), ""https://youtu.be/ZFd2PE1l6vU"")",Chrome 70.0.3538.110,,2018-11-30 18:01:20,2018-11-30 18:01:20,0.179s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:01:20,2018-11-30 18:01:22,2.002s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/youtubesuccess""))",Chrome 70.0.3538.110,,2018-11-30 18:01:22,2018-11-30 18:01:23,0.405s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:01:23,2018-11-30 18:01:25,2.001s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/Table""))",Chrome 70.0.3538.110,,2018-11-30 18:01:25,2018-11-30 18:01:25,0.151s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:01:25,2018-11-30 18:01:27,2.002s,PASSED
+"click(findTestObject(""Object Repository/NEWCKEDITOR/tableselect2""))",Chrome 70.0.3538.110,,2018-11-30 18:01:27,2018-11-30 18:01:27,0.150s,PASSED
+delay(2),Chrome 70.0.3538.110,,2018-11-30 18:01:27,2018-11-30 18:01:29,2.000s,PASSED
